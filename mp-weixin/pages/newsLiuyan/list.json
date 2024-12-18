@@ -1,0 +1,8 @@
+{
+  "navigationBarBackgroundColor": "#838A8E",
+  "navigationBarTextStyle": "white",
+  "navigationBarTitleText": "新闻留言展示",
+  "usingComponents": {
+    "mescroll-uni": "/components/mescroll-uni/mescroll-uni"
+  }
+}
